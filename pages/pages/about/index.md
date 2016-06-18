@@ -4,12 +4,6 @@ layout: page
 path: "/about"
 ---
 
-Lorem ipsum dolor sit amet, in summo tamquam mea, gubergren laboramus torquatos usu ne, magna rationibus sit eu. Id constituam honestatis pri, iracundia adversarium vel te. Per ferri aliquam impedit ex. Ei nec elitr nonumy vidisse, et qui fierent maluisset sadipscing, tincidunt vituperata delicatissimi te quo.
+I'm a serial entrepreneur and this is my personal blog. I've done a variety of things over the years but the short version is that I was a Dean at Harvard for five, went back to business school, [started a company with my significant other](https://www.tuckerman.co/), run a [small digital strategy company](http://www.quarterdeckdesign.com/), and help out with the [family fly-fishing business](http://www.spinozarods.com/). When I'm not working I enjoy running, the outdoors, and watching the Red Sox and Patriots.
 
-Te est iisque volutpat, tacimates dissentias no ius. Ea eam quodsi omnium deseruisse, affert evertitur sententiae sea ei. Dicit minimum at quo, nulla ludus vivendum cu mea, audire reformidans mei id. In his deserunt tincidunt, cu stet soleat libris sit, et modus illum sea. Id usu ubique volumus deterruisset, mea ut viderer reformidans complectitur. Ignota meliore eu eam.
-
-Vix mazim ornatus in, populo causae mandamus cu mei, ut malis novum postulant duo. Pro tantas consulatu in, ei nullam labore detraxit sed. Ne nam wisi percipitur. Ea sint nonumy pri. Id mel graeco latine tacimates, eum no habeo laudem iriure, sea putent tritani accommodare id. Pro no rebum decore eripuit.
-
-Alia albucius pro ut. Mea ut ipsum dolor. Qui ea volumus blandit iudicabit, ad sed timeam nominati posidonium, mel ei meis ocurreret mnesarchum. Mei elitr senserit voluptatibus ad, te quod vivendo vix. Vis no perfecto abhorreant, cu appellantur repudiandae mei, at vix mnesarchum honestatis disputationi.
-
-Omnium utamur detraxit te pro, affert nominati has ea. Delectus platonem ius et. Cibo aperiam denique an duo, illud laudem constituam quo id. Inani civibus pertinacia nam an. Luptatum instructior sed at, an elit accommodare sit, vix ne nulla soluta.
+What else? I love working with and advising entrepreneurs, and learning new software tools and frameworks. I'm a bit of a productivity nerd, and get a kick out of finding better ways to do things. I love supporting non-profits and social ventures that are trying to make the world a better place.
